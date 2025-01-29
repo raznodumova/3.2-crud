@@ -1,3 +1,5 @@
 django
 djangorestframework
 django_filter==22.1
+psycopg2-binary>=2.9
+
